@@ -1,0 +1,39 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "UNO",
+      "description": "Le Uno est un jeu de cartes américain créé en 19711 par Merle Robbins et édité par Mattel. Basé sur les règles du 8 américain (qui se joue avec un jeu de cartes standard), le Uno lui applique un jeu de cartes spécifiquement dédié, ainsi que quelques règles supplémentaires.",
+      "link": "https://fr.wikipedia.org/wiki/Uno",
+      "img": "https://live.staticflickr.com/4323/35885691930_a1126efe7a_h.jpg"
+    },
+    {
+      "id": 2,
+      "name": "TIC-TAC-TOE",
+      "description": "Le tic-tac-toe, aussi appelé « morpion » (par analogie au jeu de morpion) et « oxo » en Belgique, est un jeu de réflexion se pratiquant à deux joueurs au tour par tour dont le but est de créer le premier un alignement. Le jeu se joue généralement avec papier et crayon.",
+      "link": "https://fr.wikipedia.org/wiki/Tic-tac-toe",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/200px-Tic_tac_toe.svg.png"
+    },
+    {
+      "id": 3,
+      "name": "PIERRE-PAPIER-CISEAUX",
+      "description": "Pierre-papier-ciseaux est un jeu effectué avec les mains et opposant un ou plusieurs joueurs. De façon générale, la pierre bat les ciseaux (en les émoussant), les ciseaux battent la feuille (en la coupant), la feuille bat la pierre (en l'enveloppant). Ainsi chaque coup bat un autre coup, fait match nul contre le deuxième (son homologue) et est battu par le troisième.",
+      "link": "https://fr.wikipedia.org/wiki/Pierre-papier-ciseaux",
+      "img": "https://publicdomainvectors.org/photos/rock-paper-scissors.png"
+    },
+    {
+      "id": 4,
+      "name": "LE POUILLEUX",
+      "description": "Le pouilleux ou vieux garçon, (appelé parfois mistigri, le pissous, le puant ou le valet noir voire schwarze Peter), est un jeu qui nécessite 51 cartes, c'est-à-dire les 52 cartes traditionnelles moins la carte du valet de trèfle. Ce jeu se pratique de 2 à 8 joueurs.",
+      "link": "https://fr.wikipedia.org/wiki/Pouilleux_(jeu)",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jack_of_spades_fr.svg/200px-Jack_of_spades_fr.svg.png"
+    },
+    {
+      "id": 5,
+      "name": "YU-GI-OH!",
+      "description": "Yu-Gi-Oh! (遊☆戯☆王, Yūgiō?, littéralement « Le Roi des jeux ») est un Shōnen écrit et dessiné par Kazuki Takahashi. Il a été prépublié entre septembre 1996 et mars 2004 dans le magazine Weekly Shōnen Jump, et a été compilé en un total de trente-huit tomes par Shūeisha. La version française est éditée en intégralité par Kana. Takahashi, pour créer ce manga, s'est inspiré de Pokémon et de Magic : l'assemblée.",
+      "link": "https://fr.wikipedia.org/wiki/Yu-Gi-Oh!",
+      "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Yu-Gi-Oh_Logo.JPG/220px-Yu-Gi-Oh_Logo.JPG"
+    }
+  ]
+}
