@@ -11,16 +11,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".fragments.FragmentExempleActivity" />
-        <activity android:name=".MainActivity" />
-        <activity android:name=".HttpRequestActivity" />
-        <activity android:name=".recyclerview.MainActivity">
+        <activity android:name=".constraint_layout.ConstraintActivity"></activity>
+        <activity android:name=".shared_pref.PrefActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".fragments.FragmentExempleActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".HttpRequestActivity" />
+        <activity android:name=".recyclerview.MainActivity" />
     </application>
 
 </manifest>
