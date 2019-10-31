@@ -34,6 +34,13 @@
       "description": "Yu-Gi-Oh! (遊☆戯☆王, Yūgiō?, littéralement « Le Roi des jeux ») est un Shōnen écrit et dessiné par Kazuki Takahashi. Il a été prépublié entre septembre 1996 et mars 2004 dans le magazine Weekly Shōnen Jump, et a été compilé en un total de trente-huit tomes par Shūeisha. La version française est éditée en intégralité par Kana. Takahashi, pour créer ce manga, s'est inspiré de Pokémon et de Magic : l'assemblée.",
       "link": "https://fr.wikipedia.org/wiki/Yu-Gi-Oh!",
       "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Yu-Gi-Oh_Logo.JPG/220px-Yu-Gi-Oh_Logo.JPG"
+    },
+    {
+      "id": 6,
+      "name": "MÖLKKY",
+      "description": "Le mölkky (prononcé /mɔl.ki/ en français, /ˈmøl.kːy/ en finnois1) est un jeu d'adresse inventé par l'entreprise finlandaise Lahden Paikka (anciennement Tuoterengas) en 1996, dans la région méridionale du Päijät-Häme. Il s'inspire du kyykkä, un jeu traditionnel finlandais de lancer ayant ses origines en Carélie. Se pratiquant en plein air, l'objectif du mölkky est de marquer exactement cinquante points en renversant des quilles numérotées de 1 à 12 par un lancer d'un bâton de bois. Ne demandant pas la force nécessaire du kyykkä, le mölkky peut se pratiquer sans condition d'âge ou de condition physique.",
+      "link": "https://fr.wikipedia.org/wiki/Mölkky",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/M%C3%B6lkkypeli_IMG_9556_C.JPG/220px-M%C3%B6lkkypeli_IMG_9556_C.JPG"
     }
   ]
 }
